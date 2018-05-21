@@ -1,0 +1,53 @@
+# Ignore thumbnails created by windows
+Thumbs.db
+
+# Ignore files build by xcode
+*.mode*v*
+*.pbxuser
+*.xcbkptlist
+*.xcscheme
+*.xcworkspacedata
+*.xcuserstate
+xcschememanagement.plist
+.DS_Store
+._.*
+xcuserdata/
+DerivedData/
+*.xccheckout
+
+# Ignore file build by Mono And Unity3D
+/Library/
+/Temp/
+/Obj/
+
+/.vs
+/*.DotSettings
+
+/*.csproj
+/*.unityproj
+/*.sln
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+*.fbm
+*.fbm.meta
+
+
+# 编译结果
+/Build/Bin
+
+# 插件
+#UnityVS
+/Assets/UnityVS
+/Assets/UnityVS.meta
+
+# 更新
+
+
+# Custom
+
